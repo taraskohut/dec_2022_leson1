@@ -1,0 +1,38 @@
+img{
+    width: 300px;
+    height: 300px;
+
+}
+h1{
+
+    background-color: darkcyan;
+    color: antiquewhite;
+}
+p{
+    background-color: darkcyan;
+    color: antiquewhite;
+    font-size: 18px;
+
+}
+h2{
+    background-color: darkcyan;
+    color: antiquewhite;
+}
+a{
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: darkgoldenrod;
+
+}
+ul{
+
+    font-size: 14px;
+    background-color: blueviolet;
+    color:antiquewhite;
+    font-family: 'Libre Baskerville', serif;
+}
+
+}
